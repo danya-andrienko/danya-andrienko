@@ -7,6 +7,6 @@
 - [Курсовий проект з предмету промислові контролери та їх програмне забезпечення](https://github.com/danya-andrienko/Project-Industrial-controllers-and-their-software)
 
 # Мої навички (Professional skills) 
-- PLS programer: OVEN(CODESYS 2.3, 3.5), Shcneider Electric (Unity PRO, SoMachine, EcoStructure), S7(Step 7 Tia Portal)
+- PLS programer: OVEN(CODESYS 2.3, 3.5), Shcneider Electric (Unity PRO, SoMachine, EcoStructure)
 - SCADA programer: Simple Scada, Trace Mode 6, SimpLight, Tesla SCADA, zenon,Aveva Citect.
 - I40/IoT: Node-red, MQTT.
