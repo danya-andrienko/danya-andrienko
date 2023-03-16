@@ -1,5 +1,7 @@
 Сторінка Андрієнка Даниїла (Andrienko Daniil)
 
+Відкритий до будь-якої співпраці та стартапів у сфері IT, IoT, automation.
+
 # Мої проекти 
 
 - [Перша кваліфікаційна робота](https://github.com/danya-andrienko/My-first-work) (СТФК-НУХТ) 
