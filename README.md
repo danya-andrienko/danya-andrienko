@@ -11,5 +11,6 @@
 
 # Мої навички (Professional skills) 
 - PLS programer: OVEN(CODESYS 2.3, 3.5), Shcneider Electric (Unity PRO, SoMachine, EcoStructure)
-- SCADA programer: Simple Scada, Trace Mode 6, SimpLight, Tesla SCADA, zenon,Aveva Citect.
+- SCADA programer: Simple Scada, Trace Mode 6, SimpLight, Tesla SCADA, zenon, Aveva Citect.
 - I40/IoT: Node-red, MQTT.
+- AVEVA Operations control software (SCADA/HMI).
